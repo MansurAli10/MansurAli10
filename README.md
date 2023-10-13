@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Data Science graduate from UMBC</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZpa3lrM25mb2N3MzB1a3pubmh6a3gweGs2dzNrYjZidWYweWl5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning, Natural Language Processing**
 
 - 🌱 I’m currently learning **Big Data**
 
