@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mansur Ali Mohammad</h1>
 <h3 align="center">A passionate Data Scientist from UMBC</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZpa3lrM25mb2N3MzB1a3pubmh6a3gweGs2dzNrYjZidWYweWl5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif">
-https://giphy.com/gifs/cartoon-character-2d-3oKIPEqDGUULpEU0aQ
 
 - 🔭 I’m currently working on **Machine Learning**
 
